@@ -1,0 +1,20 @@
+[
+    {
+        "color": "red",
+        "type": "fox",
+        "size": "nano",
+        "name": "Comet"
+    },
+    {
+        "color": "red",
+        "type": "crab",
+        "size": "nano",
+        "name": "Grumpy"
+    },
+    {
+        "color": "green",
+        "type": "chicken",
+        "size": "nano",
+        "name": "Dixi"
+    }
+]
